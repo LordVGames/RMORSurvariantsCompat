@@ -1,5 +1,5 @@
 # RMORSurvariantsCompat
-A Risk of Rain 2 mod that makes R-MOR a variant of HAN-D using the Survariants mod, just like the Starstorm mod!
+A Risk of Rain 2 mod that makes R-MOR a variant of HAN-D, just like the Starstorm mod!
 
 ![Risk_of_Rain_2_OqFkftskPs](https://github.com/LordVGames/RMORSurvariantsCompat/assets/51967559/793a49c3-73f7-48f0-ac8f-74f1db963595)
 
