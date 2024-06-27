@@ -1,3 +1,6 @@
+# DEPRECATED
+You can now do what this mod does by using [SurvivorSortOrder](https://thunderstore.io/package/TheTimesweeper/SurvivorSortOrder/). Open it's config, scroll down to the variants section and add `RMORBody:HANDOverclockedBody` to the "Custom Variants" option.
+
 # RMORSurvariantsCompat
 A Risk of Rain 2 mod that makes R-MOR a variant of HAN-D, just like the Starstorm mod!
 
